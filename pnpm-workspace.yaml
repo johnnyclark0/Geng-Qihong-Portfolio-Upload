@@ -1,0 +1,4 @@
+allowBuilds:
+  esbuild: set this to true or false
+overrides:
+  esbuild: npm:esbuild-wasm@0.25.12
